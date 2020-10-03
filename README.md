@@ -1,2 +1,2 @@
 # first_rep
-django
+Vedant's First Github repository with DJango
